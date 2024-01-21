@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Şule 
+### Hi there 👋, I am Şule AKÇAY
 #### Data & ML Enginneer
 ![Data & ML Enginneer](https://medium.com/@suleakcaycs)
 
